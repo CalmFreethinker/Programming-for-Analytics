@@ -1,7 +1,4 @@
 //Simulation program to estimate the winning chance of the Craps game.
-/*Author: Ricky Vidals
-  CIS 3100 BMWA Spring 2019
-  Assignment 3*/
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
